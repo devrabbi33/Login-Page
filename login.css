@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.jibon{
+    text-align: center;
+    text-decoration: underline;
+    color: #f10b0b;
+}
+body{
+    background: #f5f77c;
+}
+.admin-form{
+    background: #a1f1c5;
+    width: 60%;
+    margin: 50px 20%;
+    padding: 50px;
+    text-align: center;
+    border-radius: 10px;
+}
+.admin-image{
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    margin-top: 50px;
+}
+.email{
+    display: block;
+    width: 90%;
+    margin: 20px auto;
+    padding: 25px;
+    border: none;
+    border-radius: 10px;
+    font-size: 25px;
+    color: #734e4e;
+    font-weight: 200px;
+
+}
+.password{
+    display: block;
+    width: 90%;
+    margin: 20px auto;
+    padding: 25px;
+    border: none;
+    border-radius: 10px;
+    font-size: 25px;
+    color: #734e4e;
+    font-weight: 200px;
+}
+input{
+    display: block;
+    width: 90%;
+    margin: 20px auto;
+    padding: 25px;
+    border: none;
+    border-radius: 10px;
+    font-size: 25px;
+    color: #bb9b31;
+    font-weight: 200px;
+}
+input:focus{
+    background: #b2b8c3;
+}
+.form-button{
+    width: 30%;
+    padding: 10px 20px;
+    border-radius: 50px;
+    background: #4ea95f;
+    color: white;
+}
+input:focus{
+    background: #dcf05f;
+
+}
+.form-button{
+    width: 30%;
+    padding: 10px 20px;
+    border-radius: 50px;
+    background: #4ea95f;
+    color: white;
+}
+.form-button:hover{
+    box-shadow: 2px 4px 4px #10f534;
+    cursor: pointer;
+    transition: 0.8s ease-in-out;
+}
+.forgotpass{
+    text-decoration: none;
+    color: #828994;
+    font-size: 28px;
+    margin: 0px 10px;
+}

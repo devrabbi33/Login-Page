@@ -1,0 +1,26 @@
+body{
+    background: #ccd9ec;
+  
+}
+.regi{
+    background: darkcyan;
+   color: #eff0f0;
+}
+.form{
+    text-align: center;
+    font-size: large;
+    background: #eff0f0;
+    width: 40%;
+    margin: 50px 20%;
+    padding: 50px;
+    text-align: center;
+    border-radius: 10px;
+}
+.submit{
+    background: #20c13d;
+    color: white;
+}
+.reset{
+    background: #ff1111;
+    color: white;
+}
